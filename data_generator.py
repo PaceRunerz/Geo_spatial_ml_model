@@ -1,5 +1,5 @@
 """
-data_generator.py  sfewdfc
+data_generator.py  sfewdf
 Generates realistic synthetic satellite data for Sehore & Astha region.
 Replace these functions with real Sentinel-2 / Bhuvan data once downloaded.
 """
